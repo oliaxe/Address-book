@@ -1,0 +1,4 @@
+Luke,Starwarsgatan 55,75666,Uppsala,0735155616,yoda@yedi.se
+Kung Carl Gustav,Slottet,10011,Stockholm,0700000001,kungen@slottet.se
+Stefan Löfven,Riksdagen,45566,Stockholm,0706666661,stefan.lofven@riksdagen.se
+Gorbatjov,Kvarnängsgatan 47,75420,Uppsala,0735155616,olivia.axellie@gmail.com
